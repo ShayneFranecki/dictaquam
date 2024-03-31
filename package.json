@@ -1,0 +1,27 @@
+{
+  "name": "dictaquam",
+  "version": "1.0.0",
+  "description": "Private Key Web3 provider",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShayneFranecki/dictaquam.git"
+  },
+  "keywords": [
+    "voluptatibus",
+    "dolorem",
+    "ad",
+    "provider",
+    "tempore"
+  ],
+  "author": "EltaSwaniawski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShayneFranecki/dictaquam.git/issues"
+  },
+  "dependencies": {
+    "ethereumjs-wallet": "^0.6.0",
+    "web3": "^0.20.1",
+    "web3-provider-engine": "^8.4.0"
+  }
+}
